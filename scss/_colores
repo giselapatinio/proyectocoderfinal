@@ -1,0 +1,7 @@
+$color-azul: #3D3DE1;
+$color-rosa: #FF9D6C;
+$color-amarillo: #FFDE05;
+$color-celeste: #87AFD3;
+$color-lila: #C594D6;
+$color-blanco: white;
+$color-negro: black;

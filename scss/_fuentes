@@ -1,0 +1,18 @@
+$Spartan: '../assets/fonts/leagueSpartanBold.ttf';
+$gothicRegular: '../assets/fonts/leagueSpartanBold.ttf';
+$decaRegular: '../assets/fonts/LexendDecaRegular.ttf';
+
+@font-face  {
+  font-family:'leagueSpartanBold';
+  src: url('../assets/fonts/leagueSpartanBold.ttf') format('truetype');
+}
+
+@font-face  {
+  font-family:'gothicRegular';
+  src: url('$gothicRegular') format('truetype');
+}
+
+@font-face  {
+  font-family:'decaRegular';
+  src: url('$decaRegular') format('truetype');
+}

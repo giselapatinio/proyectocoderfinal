@@ -1,0 +1,12 @@
+$fuentesmall: 15px;
+$fuentesmedium: 18px;
+$fuentesmediumg: 25px;
+$fuenteslarge: 33px;
+$fuentesextralarge: 40px;
+
+
+@each $tamanio in small, medium,large, extralarge {
+	.#{$tamanio}{
+	width: $tamanio;
+	}
+}
